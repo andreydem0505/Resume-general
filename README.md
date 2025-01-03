@@ -38,21 +38,21 @@
 <h3>Портфолио:</h3>
 <details>
     <summary><a href="https://github.com/andreydem0505/HomeController">Мобильное приложение</a>, 
-    контролирующее состояние окружающей среды (Jetpack Compose, Spring Boot, Kotlin)</summary><br>
+    контролирующее состояние окружающей среды <b>(Jetpack Compose, Spring Boot, Kotlin)</b></summary><br>
     Создано за неделю командой из 5 человек на Kotlin for Android Bootcamp от Samsung. Затем переписано мной заново.
 </details>
 <hr/>
 <a href="https://github.com/andreydem0505/TradeMate">Мобильное приложение</a>
-для мерчендайзеров: выпускной проект IT-школы Samsung (Java, Spring Boot)
+для мерчендайзеров: выпускной проект IT-школы Samsung <b>(Java, Spring Boot)</b>
 <hr/>
 <a href="https://github.com/andreydem0505/3DViewer">3D рендер</a>: софт для просмотра, редактирования и анимирования 3D 
-моделей (Java)
+моделей <b>(Java)</b>
 <hr/>
 <details>
     <summary>Сервис для генерации уникальных описаний отелей: 
     <a href="https://github.com/Russian-IDEA/TravelParse-mobile">мобильное приложение</a> и фронтенд 
     <a href="https://github.com/Russian-IDEA/TravelParse-Web">сайта</a>
-    (Jetpack Compose, React.js)</summary>
+    <b>(Jetpack Compose, React.js)</b></summary><br>
     <img src="travelparse-mobile1.png" alt="скриншот мобильного приложения" style="height: 300px; object-fit: contain"/>
     <img src="travelparse-mobile2.png" alt="скриншот мобильного приложения" style="height: 300px; object-fit: contain"/>
     <img src="travelparse-site.png" alt="скриншот сайта" style="height: 300px; object-fit: contain"/>
@@ -61,15 +61,15 @@
 <hr/>
 <details>
     <summary><a href="https://github.com/Russian-IDEA/terra_cognita">Сервис</a> 
-    для заказа фотографий со спутников (Django, React.js)</summary>
+    для заказа фотографий со спутников <b>(Django, React.js)</b></summary><br>
     <img src="terra-cognita1.png" alt="скриншот сайта" style="height: 300px; object-fit: contain"/>
     <img src="terra-cognita2.png" alt="скриншот сайта" style="height: 300px; object-fit: contain"/>
     <br>Написан на хакатоне за 3 дня 
 </details>
 <hr/>
-<a href="https://github.com/andreydem0505/Blockchain-Java">Модель блокчейна</a> (Java)
+<a href="https://github.com/andreydem0505/Blockchain-Java">Модель блокчейна</a> <b>(Java)</b>
 <hr/>
-<a href="https://github.com/andreydem0505/Trading-bot">Торговый бот</a> на KuCoin (Python)
+<a href="https://github.com/andreydem0505/Trading-bot">Торговый бот</a> на KuCoin <b>(Python)</b>
 <hr/>
 <h3>Предыдущий опыт работы:</h3>
 <ul>
