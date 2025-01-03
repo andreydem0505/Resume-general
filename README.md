@@ -19,7 +19,7 @@
 <h4>Языки программирования:</h4>
 На глубоком уровне: Java, Python<br>
 Имел опыт: JS, Kotlin
-<p>Знаю HTML, CSS, SQL</p>
+<p>Владею HTML, CSS, SQL</p>
 <h4>Уровень английского: <a href="https://disk.yandex.ru/i/3PaIluq00IfTOA">B2</a></h4>
 <h3>Пройденные курсы:</h3>
 <ul>
