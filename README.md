@@ -45,6 +45,9 @@
 <a href="https://github.com/andreydem0505/TradeMate">Мобильное приложение</a>
 для мерчендайзеров: выпускной проект IT-школы Samsung (Java, Spring Boot)
 <hr/>
+<a href="https://github.com/andreydem0505/3DViewer">3D рендер</a>: софт для просмотра, редактирования и анимирования 3D 
+моделей (Java)
+<hr/>
 <details>
     <summary>Сервис для генерации уникальных описаний отелей: 
     <a href="https://github.com/Russian-IDEA/TravelParse-mobile">мобильное приложение</a> и фронтенд 
