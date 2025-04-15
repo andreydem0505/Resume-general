@@ -28,6 +28,7 @@
     <li><a href="https://hyperskill.org/profile/39616141">Jetbrains Academy</a></li>
     <li><a href="https://disk.yandex.ru/i/e1AWvACi5J5dLQ">DSR .NET School</a></li>
     <li><a href="https://disk.yandex.ru/d/Gu0DSm6WtlFuyg">Surf QA Summer School</a></li>
+    <li><a href="https://disk.yandex.ru/i/1BnPJUKc-rViHA">Surf QA Winter School</a></li>
     <li><a href="https://yadi.sk/i/v2kh7mSmXQJQRg">Яндекс Тренировки по алгоритмам 6.0</a></li>
 </ul>
 <h3>Достижения:</h3>
@@ -74,13 +75,14 @@
 <h3>Предыдущий опыт работы:</h3>
 <ul>
     <li><a href="https://a24.biz/authors/4805761/">Фрилансер</a></li>
-    <li>Репетитор по информатике</li>
+    <li>Репетитор по информатике и программированию</li>
 </ul>
 <h3>Контакты:</h3>
 <ul>
     <li>Github: <a href="https://github.com/andreydem0505">https://github.com/andreydem0505</a></li>
     <li>Telegram: <a href="https://t.me/Andreydem42">https://t.me/Andreydem42</a></li>
     <li>VK: <a href="https://vk.com/id565198209">https://vk.com/id565198209</a></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/andrey-dementiev">https://www.linkedin.com/in/andrey-dementiev</a></li>
     <li>Email: <a href="mailto:andreydem42@gmail.com">andreydem42@gmail.com</a></li>
     <li>Телефон: +79507788171</li>
 </ul>
