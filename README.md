@@ -35,6 +35,8 @@
 <ul>
     <li>3-е место в финале всероссийского конкурса "Моя профессия - ИТ"</li>
     <img src="hackathon.jpg" alt="фотография с хакатона" style="height: 300px; object-fit: contain"/>
+    <hr/>    
+    <li>Нашёл <a href="https://hackerone.com/reports/3129921">баг</a> в Bug Bounty от Telegram Wallet</li>
 </ul>
 <h3>Портфолио:</h3>
 <details>
