@@ -52,8 +52,8 @@
 <a href="https://github.com/Finam-Hackathon/RussianIDEA">Агрегатор горячих финансовых новостей</a> (Python, RabbitMQ, MongoDB, ML, Selenium, JS)
 </summary>
 <br>Написан на Финам хакатоне за 2 дня в небольшой команде, которой я руководил<br>
+<img width="700" src="https://github.com/Finam-Hackathon/RussianIDEA/blob/master/schema.png?raw=true" alt="Архитектура проекта">
 <img width="300" src="finam-post.png" alt="Пост новости">
-<img align="right" width="700" src="https://github.com/Finam-Hackathon/RussianIDEA/blob/master/schema.png?raw=true" alt="Архитектура проекта">
 </details>
 <hr/>
 <a href="https://github.com/andreydem0505/3DViewer">3D рендер</a>: софт для просмотра, редактирования и анимирования 3D 
@@ -94,7 +94,7 @@
 <details>
 <summary><a href="https://github.com/andreydem0505/Songwriter">Скрипт</a>, сочиняющий мелодию для FL Studio <b>(Python)</b></summary>
 <img width="600" src="music-project.png" alt="Проект">
-<img align="right" width="600" src="fl.png" alt="Результат">
+<img width="600" src="fl.png" alt="Результат">
 </details>
 <hr/>
 <h3>Контакты:</h3>
