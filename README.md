@@ -7,17 +7,25 @@
 Факультет компьютерных наук<br>
 Направление: программная инженерия<br>
 3 курс
-<h4>Языки программирования:</h4>
+<h3>Бэкграунд:</h3>
+<ul>
+    <li>Обучаюсь программированию и разработке уже >4 лет</li>
+    <li>Понимаю принципы хорошего написания кода, такие как SOLID, DRY, YAGNI, KISS (читал Чистый код и Чистую 
+    архитектуру Роберта Мартина)</li>
+    <li>Имею опыт использования git в командной разработке и несколько командных проектов в 
+    портфолио</li>
+</ul>
+<h3>Языки программирования:</h3>
 На глубоком уровне: <b>Java, Python</b><br>
-Имел опыт: <b>JS, Kotlin</b>
+Имел опыт: <b>JS, Kotlin, Solidity</b>
 <p>Владею HTML, CSS, SQL</p>
 <h4>Уровень английского: <a href="https://disk.yandex.ru/i/3PaIluq00IfTOA">B2</a></h4>
 <h3>Опыт работы:</h3>
 <ul>
     <li>
         06.2025-09.2025: <b>Стажировка в 🎵 Яндекс Музыке 🎵 в команде продуктового бэкенда</b><br>
-        На стажировке работал с монолитной и микросервисной архитектурой<br>
-        Технологии, которые применял: <b>Spring, MongoDB, gRPC, JUnit, Mockito, Postman</b>
+        Работал с монолитной и микросервисной архитектурой<br>
+        Технологии: <b>Spring, MongoDB, gRPC, JUnit, Mockito, Postman</b>
     </li>
 </ul>
 <h3>Пройденные курсы:</h3>
@@ -32,30 +40,39 @@
     <li><a href="https://disk.yandex.ru/i/sP5jA9SUB9vRYg">Т-Образование: Алгоритмы и структуры данных</a></li>
 </ul>
 <h3>Достижения:</h3>
-<ul>
-    <li>3-е место в финале всероссийского конкурса "Моя профессия - ИТ"</li>
-    <img src="hackathon.jpg" alt="фотография с хакатона" style="height: 300px; object-fit: contain"/>
-    <hr/>    
-    <li>Нашёл <a href="https://hackerone.com/reports/3129921">баг</a> в Bug Bounty от Telegram Wallet</li>
-</ul>
-<h3>Портфолио:</h3>
 <details>
-    <summary><a href="https://github.com/andreydem0505/HomeController">Мобильное приложение</a>, 
-    контролирующее состояние окружающей среды <b>(Jetpack Compose, Spring Boot, Kotlin)</b></summary><br>
-    Создано за неделю командой из 5 человек на Kotlin for Android Bootcamp от Samsung. Затем переписано мной заново.
+<summary>3-е место в финале всероссийского конкурса "Моя профессия - ИТ"</summary>
+<img src="hackathon.jpg" alt="фотография с хакатона" style="height: 300px; object-fit: contain"/>
 </details>
 <hr/>
-<a href="https://github.com/andreydem0505/TradeMate">Мобильное приложение</a>
-для мерчендайзеров: выпускной проект IT-школы Samsung <b>(Java, Spring Boot)</b>
+Нашёл баг в <a href="https://hackerone.com/wallet_on_telegram?type=team">Bug Bounty</a> от Telegram Wallet
+<h3>Портфолио:</h3>
+<details>
+<summary>
+<a href="https://github.com/Finam-Hackathon/RussianIDEA">Агрегатор горячих финансовых новостей</a> (Python, RabbitMQ, MongoDB, ML, Selenium, JS)
+</summary>
+<br>Написан на Финам хакатоне за 2 дня в небольшой команде, которой я руководил<br>
+<img width="300" src="finam-post.png" alt="Пост новости">
+<img align="right" width="700" src="https://github.com/Finam-Hackathon/RussianIDEA/blob/master/schema.png?raw=true" alt="Архитектура проекта">
+</details>
 <hr/>
 <a href="https://github.com/andreydem0505/3DViewer">3D рендер</a>: софт для просмотра, редактирования и анимирования 3D 
 моделей <b>(Java)</b>
 <hr/>
 <details>
+    <summary><a href="https://github.com/andreydem0505/HomeController">Мобильное приложение</a>, 
+    контролирующее состояние окружающей среды <b>(Android, Kotlin, Jetpack Compose, Spring Boot)</b></summary><br>
+    Создано за неделю командой из 5 человек на <a href="https://www.innovationcampus.ru/android-bootcamp/">Kotlin for Android Bootcamp</a> от Samsung. Затем переписано мной заново.
+</details>
+<hr/>
+<a href="https://github.com/andreydem0505/TradeMate">Мобильное приложение</a>
+для мерчендайзеров: выпускной проект IT-школы Samsung <b>(Android, Java, Spring Boot)</b>
+<hr/>
+<details>
     <summary>Сервис для генерации уникальных описаний отелей: 
     <a href="https://github.com/Russian-IDEA/TravelParse-mobile">мобильное приложение</a> и фронтенд 
     <a href="https://github.com/Russian-IDEA/TravelParse-Web">сайта</a>
-    <b>(Jetpack Compose, React.js)</b></summary><br>
+    <b>(Android, Kotlin, Jetpack Compose, React.js)</b></summary><br>
     <img src="travelparse-mobile1.png" alt="скриншот мобильного приложения" style="height: 300px; object-fit: contain"/>
     <img src="travelparse-mobile2.png" alt="скриншот мобильного приложения" style="height: 300px; object-fit: contain"/>
     <img src="travelparse-site.png" alt="скриншот сайта" style="height: 300px; object-fit: contain"/>
@@ -74,12 +91,15 @@
 <hr/>
 <a href="https://github.com/andreydem0505/Trading-bot">Торговый бот</a> на KuCoin <b>(Python)</b>
 <hr/>
+<details>
+<summary><a href="https://github.com/andreydem0505/Songwriter">Скрипт</a>, сочиняющий мелодию для FL Studio <b>(Python)</b></summary>
+<img width="600" src="music-project.png" alt="Проект">
+<img align="right" width="600" src="fl.png" alt="Результат">
+</details>
+<hr/>
 <h3>Контакты:</h3>
-<ul>
-    <li>Github: <a href="https://github.com/andreydem0505">https://github.com/andreydem0505</a></li>
-    <li>Telegram: <a href="https://t.me/Andreydem42">https://t.me/Andreydem42</a></li>
-    <li>VK: <a href="https://vk.com/id565198209">https://vk.com/id565198209</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/andrey-dementiev">https://www.linkedin.com/in/andrey-dementiev</a></li>
-    <li>Email: <a href="mailto:andreydem42@gmail.com">andreydem42@gmail.com</a></li>
-    <li>Телефон: +79507788171</li>
-</ul>
+<a href="https://github.com/andreydem0505"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+<a href="https://t.me/Andreydem42"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="https://vk.com/id565198209"><img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK"></a>
+<a href="https://www.linkedin.com/in/andrey-dementiev"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
+<a href="mailto:andreydem42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
