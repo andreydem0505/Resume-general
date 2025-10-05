@@ -51,7 +51,7 @@
 <summary>
 <a href="https://github.com/Finam-Hackathon/RussianIDEA">Агрегатор горячих финансовых новостей</a> (Python, RabbitMQ, MongoDB, ML, Selenium, JS)
 </summary>
-<br>Написан на Финам хакатоне за 2 дня в небольшой команде, которой я руководил<br>
+<br>Написан на Финам хакатоне за 2 дня в небольшой команде, которой я руководил<br><br>
 <img width="700" src="https://github.com/Finam-Hackathon/RussianIDEA/blob/master/schema.png?raw=true" alt="Архитектура проекта">
 <img width="300" src="finam-post.png" alt="Пост новости">
 </details>
@@ -93,6 +93,7 @@
 <hr/>
 <details>
 <summary><a href="https://github.com/andreydem0505/Songwriter">Скрипт</a>, сочиняющий мелодию для FL Studio <b>(Python)</b></summary>
+<br>
 <img width="600" src="music-project.png" alt="Проект">
 <img width="600" src="fl.png" alt="Результат">
 </details>
