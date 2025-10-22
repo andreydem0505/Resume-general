@@ -1,7 +1,7 @@
 <h1>Дементьев Андрей Дмитриевич</h1>
 <img align="right" src="me.jpg" alt="моя фотография" style="height: 250px; object-fit: contain">
 <h3>Воронеж, 19 лет</h3>
-<h3>Начинающий разработчик</h3>
+<h3>Junior разработчик</h3>
 <h3>Образование:</h3>
 Воронежский государственный университет<br>
 Факультет компьютерных наук<br>
@@ -13,7 +13,9 @@
     <li>Знаю методологии ведения проектов, работал в Agile-командах</li>
     <li>Понимаю принципы хорошего написания кода, такие как SOLID, DRY, YAGNI, KISS (читал Чистый код и Чистую 
     архитектуру Роберта Мартина)</li>
-    <li>Знаю теорию тестировния; писал автотесты с помощью JUnit, Mockito, Postman, в том числе e2e.</li>
+    <li>Знаю теорию тестировния; писал автотесты с помощью JUnit, Mockito, Postman, в том числе e2e</li>
+    <li>Изучаю Kali Linux, имею представление о кибербезопасности и уязвимостях, умею работать с UNIX-системами</li>
+    <li>Знаю основы матанализа, матстатистики, линейной алгебры и компьютерной графики</li>
 </ul>
 <h3>Языки программирования:</h3>
 На глубоком уровне: <b>Java, Python</b><br>
@@ -49,7 +51,7 @@
 <h3>Портфолио:</h3>
 <details>
 <summary>
-<a href="https://github.com/Finam-Hackathon/RussianIDEA">Агрегатор горячих финансовых новостей</a> (Python, RabbitMQ, MongoDB, ML, Selenium, JS)
+<a href="https://github.com/Finam-Hackathon/RussianIDEA">Агрегатор горячих финансовых новостей</a> <b>(Python, RabbitMQ, MongoDB, ML, Selenium, JS)</b>
 </summary>
 <br>Написан на Финам хакатоне за 2 дня в небольшой команде, которой я руководил<br><br>
 <img width="700" src="https://github.com/Finam-Hackathon/RussianIDEA/blob/master/schema.png?raw=true" alt="Архитектура проекта">
@@ -81,7 +83,7 @@
 <hr/>
 <details>
     <summary><a href="https://github.com/Russian-IDEA/terra_cognita">Сервис</a> 
-    для заказа фотографий со спутников <b>(Django, React.js)</b></summary><br>
+    для заказа фотографий со спутников <b>(Python, Django, React.js)</b></summary><br>
     <img src="terra-cognita1.png" alt="скриншот сайта" style="height: 300px; object-fit: contain"/>
     <img src="terra-cognita2.png" alt="скриншот сайта" style="height: 300px; object-fit: contain"/>
     <br>Написан на хакатоне за 3 дня 
