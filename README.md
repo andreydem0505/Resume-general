@@ -1,6 +1,6 @@
 <h1>Дементьев Андрей Дмитриевич</h1>
 <img align="right" src="me.jpg" alt="моя фотография" style="height: 250px; object-fit: contain">
-<h3>Воронеж, 19 лет</h3>
+<h3>Воронеж, 20 лет</h3>
 <h3>Junior разработчик</h3>
 <h3>Образование:</h3>
 Воронежский государственный университет<br>
@@ -9,18 +9,18 @@
 3 курс
 <h3>Бэкграунд:</h3>
 <ul>
-    <li>Обучаюсь программированию и разработке уже >4 лет</li>
+    <li>Обучаюсь программированию и разработке уже >5 лет</li>
     <li>Знаю методологии ведения проектов, работал в Agile-командах</li>
     <li>Понимаю принципы хорошего написания кода, такие как SOLID, DRY, YAGNI, KISS (читал Чистый код и Чистую 
     архитектуру Роберта Мартина)</li>
-    <li>Знаю теорию тестировния; писал автотесты с помощью JUnit, Mockito, Postman, в том числе e2e</li>
-    <li>Изучаю Kali Linux, имею представление о кибербезопасности и уязвимостях, умею работать с UNIX-системами</li>
+    <li>Знаю теорию тестировния; писал автотесты с помощью JUnit, Mockito, Postman, k6, в том числе e2e</li>
+    <li>Изучаю Kali Linux и кибербезопасность, умею работать с UNIX</li>
     <li>Знаю основы матанализа, матстатистики, линейной алгебры и компьютерной графики</li>
 </ul>
 <h3>Языки программирования:</h3>
 На глубоком уровне: <b>Java, Python</b><br>
 Имел опыт: <b>JS, Kotlin, Solidity</b>
-<p>Владею HTML, CSS, SQL</p>
+<p>Владею HTML, CSS, SQL, bash</p>
 <h4>Уровень английского: <a href="https://disk.yandex.ru/i/3PaIluq00IfTOA">B2</a></h4>
 <h3>Опыт работы:</h3>
 <ul>
@@ -49,6 +49,9 @@
 <hr/>
 Нашёл баг в <a href="https://hackerone.com/wallet_on_telegram?type=team">Bug Bounty</a> от Telegram Wallet
 <h3>Портфолио:</h3>
+<a href="https://github.com/andreydem0505/RemoteConfig">Сервис удаленных конфигураций</a>
+с юнит-тестами и нагрузочным тестированием <b>(Java, Spring Boot, MongoDB, Grafana, k6, Prometheus, Docker)</b>
+<hr/>
 <details>
 <summary>
 <a href="https://github.com/Finam-Hackathon/RussianIDEA">Агрегатор горячих финансовых новостей</a> <b>(Python, RabbitMQ, MongoDB, ML, Selenium, JS)</b>
@@ -66,9 +69,6 @@
     контролирующее состояние окружающей среды <b>(Android, Kotlin, Jetpack Compose, Spring Boot)</b></summary><br>
     Создано за неделю командой из 5 человек на <a href="https://www.innovationcampus.ru/android-bootcamp/">Kotlin for Android Bootcamp</a> от Samsung. Затем переписано мной заново.
 </details>
-<hr/>
-<a href="https://github.com/andreydem0505/TradeMate">Мобильное приложение</a>
-для мерчендайзеров: выпускной проект IT-школы Samsung <b>(Android, Java, Spring Boot)</b>
 <hr/>
 <details>
     <summary>Сервис для генерации уникальных описаний отелей: 
@@ -89,12 +89,12 @@
     <br>Написан на хакатоне за 3 дня 
 </details>
 <hr/>
-<a href="https://github.com/andreydem0505/Blockchain-Java">Модель блокчейна</a> <b>(Java)</b>
+<a href="https://github.com/andreydem0505/Blockchain-Java">Модель блокчейна</a> с процессом майнинга и верификацией блоков <b>(Java)</b>
 <hr/>
 <a href="https://github.com/andreydem0505/Trading-bot">Торговый бот</a> на KuCoin <b>(Python)</b>
 <hr/>
 <details>
-<summary><a href="https://github.com/andreydem0505/Songwriter">Скрипт</a>, сочиняющий мелодию для FL Studio <b>(Python)</b></summary>
+<summary><a href="https://github.com/andreydem0505/Songwriter">Скрипт</a>, составляющий мелодию для FL Studio <b>(Python)</b></summary>
 <br>
 <img width="600" src="music-project.png" alt="Проект">
 <img width="600" src="fl.png" alt="Результат">
