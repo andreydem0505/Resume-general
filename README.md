@@ -15,10 +15,10 @@
 <a href="mailto:andreydem42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <hr/>
 <h3>Опыт работы:</h3>
-<table style="border: none; padding: 0; border-spacing: 0; border-collapse: collapse">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td style="vertical-align: middle; border: none; padding: 0"><img src="images/avito.png" alt="Авито" height="30" /></td>
-    <td style="vertical-align: middle; border: none; padding: 0 0 0 8px"><h3 style="margin: 0;">Авито Работа — QA-инженер в кросс-функциональной продуктовой команде</h3></td>
+    <td valign="middle"><img src="images/avito.png" alt="Авито" height="30" /></td>
+    <td valign="middle">&nbsp;&nbsp;<b>Авито Работа — QA-инженер в кросс-функциональной продуктовой команде</b></td>
   </tr>
 </table>
 <ul>
@@ -31,10 +31,10 @@
     
 Стек: <b>Postman, TypeScript, Go, Proxyman, Charles, DevTools, Atlassian</b>
 </ul>
-<table style="border: none; padding: 0; border-spacing: 0; border-collapse: collapse">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td style="vertical-align: middle; border: none; padding: 0"><img src="images/yandex.png" alt="Яндекс" height="24" /></td>
-    <td style="vertical-align: middle; border: none; padding: 0 0 0 8px"><h3 style="margin: 0;">Яндекс Музыка — разработчик в продуктовой backend-команде</h3></td>
+    <td valign="middle"><img src="images/yandex.png" alt="Яндекс" height="24" /></td>
+    <td valign="middle">&nbsp;&nbsp;<b>Яндекс Музыка — разработчик в продуктовой backend-команде</b></td>
   </tr>
 </table>
 <ul>
