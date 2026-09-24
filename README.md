@@ -15,7 +15,7 @@
 <a href="mailto:andreydem42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <hr/>
 <h3>Опыт работы:</h3>
-<h3><span style="display: inline-flex; align-items: center; gap: 6px;"><img src="images/avito.png" alt="Авито" height="28"/>Авито Работа — QA-инженер в кросс-функциональной продуктовой команде</span></h3>
+<h3><img src="images/avito.png" alt="Авито" height="32" align="absmiddle"/>&nbsp;Авито Работа — QA-инженер в кросс-функциональной продуктовой команде</h3>
 <ul>
     <li>Выступал тест-лидом функциональности команды: разрабатывал тестовую модель, учитывая пирамиду тестирования.</li>
     <li>Участвовал в запуске нескольких масштабных АБ-экспериментов, отмечая проблемы, которые прямо влияли на бизнес-метрики.</li>
@@ -26,7 +26,7 @@
     
 Стек: <b>Postman, TypeScript, Go, Proxyman, Charles, DevTools, Atlassian</b>
 </ul>
-<h3><span style="display: inline-flex; align-items: center; gap: 6px;"><img src="images/yandex.png" alt="Авито" height="22"/>Яндекс Музыка — разработчик в продуктовой backend-команде</span></h3>
+<h3><img src="images/yandex.png" alt="Яндекс" height="24" align="absmiddle"/>&nbsp;Яндекс Музыка — разработчик в продуктовой backend-команде</h3>
 <ul>
     <li>Разработал проект геотаргетинга лендинга Музыки с нуля — от проектирования до реализации, тестирования и внедрения. Теперь контент главной страницы сервиса зависит от города пользователя и настраивается через админку.</li>
     <li>Участвовал в переносе контент-админки (треки, альбомы, исполнители и т. д.) со старого стека на новый, улучшив пользовательский опыт контент-менеджеров.</li>
