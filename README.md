@@ -41,36 +41,15 @@
 <img src="images/hackathon.jpg" alt="фотография с хакатона" style="height: 300px; object-fit: contain"/>
 </details>
 <hr/>
-Нашёл баг в <a href="https://hackerone.com/wallet_on_telegram?type=team">Bug Bounty</a> от Telegram Wallet
+Нашёл баг в <a href="https://hackerone.com/reports/3129921">Bug Bounty</a> от Telegram Wallet
 <hr/>
 <h3>Пройденные курсы:</h3>
-<table>
-    <tr>
-        <td>2020 - 2021</td>
-        <td><a href="https://disk.yandex.ru/i/CmshtTaNnDJ-kw">IT-школа Samsung</a></td>
-    </tr>
-    <tr>
-        <td>2021</td>
-        <td><a href="https://disk.yandex.ru/i/Ltr8u_cqfpVIDw">Kotlin for Android Bootcamp</a></td>
-    </tr>
-    <tr>
-        <td>2020 - 2022</td>
-        <td><a href="https://hyperskill.org/profile/39616141">Jetbrains Academy</a></td>
-    </tr>
-    <tr>
-        <td>2024</td>
-        <td><a href="https://disk.yandex.ru/d/Gu0DSm6WtlFuyg">Surf QA Summer School</a></td>
-    </tr>
-    <tr>
-        <td>2024</td>
-        <td><a href="https://yadi.sk/i/v2kh7mSmXQJQRg">Яндекс Тренировки по алгоритмам 6.0</a></td>
-    </tr>
-    <tr>
-        <td>2025</td>
-        <td><a href="https://disk.yandex.ru/i/1BnPJUKc-rViHA">Surf QA Winter School</a></td>
-    </tr>
-    <tr>
-        <td>2025</td>
-        <td><a href="https://disk.yandex.ru/i/sP5jA9SUB9vRYg">Т-Образование: Алгоритмы и структуры данных</a></td>
-    </tr>
-</table>
+<ul>
+    <li><a href="https://disk.yandex.ru/i/CmshtTaNnDJ-kw">IT-школа Samsung</a> (2020-2021)</li>
+    <li><a href="https://disk.yandex.ru/i/Ltr8u_cqfpVIDw">Kotlin for Android Bootcamp</a> (2021)</li>
+    <li><a href="https://hyperskill.org/profile/39616141">Jetbrains Academy</a> (2020-2022)</li>
+    <li><a href="https://disk.yandex.ru/d/Gu0DSm6WtlFuyg">Surf QA Summer School</a> (2024)</li>
+    <li><a href="https://yadi.sk/i/v2kh7mSmXQJQRg">Яндекс Тренировки по алгоритмам 6.0</a> (2024)</li>
+    <li><a href="https://disk.yandex.ru/i/1BnPJUKc-rViHA">Surf QA Winter School</a> (2025)</li>
+    <li><a href="https://disk.yandex.ru/i/sP5jA9SUB9vRYg">Т-Образование: Алгоритмы и структуры данных</a> (2025)</li>
+</ul>
