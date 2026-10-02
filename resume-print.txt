@@ -1,0 +1,72 @@
+<!doctype html><html lang="ru"><head><meta charset="utf-8"><title>Андрей Дементьев — Middle QA Engineer</title><base href="file:///Users/addementev/Avito/Resume-general/"><style>@page{size:A4;margin:13mm 15mm}*{box-sizing:border-box}body{font-family:Arial,Helvetica,sans-serif;font-size:10pt;line-height:1.35;color:#202b38;margin:0;background:white}h1{font-size:23pt;line-height:1.1;margin:0 0 10pt;color:#172c44}h3{font-size:11pt;line-height:1.35;margin:10pt 0 5pt;color:#172c44;break-after:avoid}body>img{height:130px!important;max-width:130px;object-fit:contain;margin:0 0 8pt 14pt;border-radius:6px}ul{padding-left:17pt;margin:4pt 0 10pt}li{margin:0 0 5pt;break-inside:avoid}hr{border:0;border-top:1px solid #dbe2e9;margin:10pt 0;clear:both}a{color:#234d78;text-decoration:none}table{border-collapse:collapse;width:100%;font-size:10pt}td{padding:4pt 8pt 4pt 0;vertical-align:top;border-bottom:1px solid #edf0f4}td:first-child{width:90pt;color:#58697b}p{margin:5pt 0}.page-two{break-before:page;margin-top:0}ul br{display:none}</style></head><body><h1>Дементьев Андрей Дмитриевич</h1>
+<img align="right" src="images/me.jpg" alt="моя фотография" style="height: 250px; object-fit: contain">
+<h3>Middle QA engineer</h3>
+<h3>Воронеж, 20 лет</h3>
+<h3>Образование:</h3>
+Воронежский государственный университет<br>
+Факультет компьютерных наук<br>
+Программная инженерия<br>
+4 курс
+<h3>Контакты:</h3>
+<a href="https://github.com/andreydem0505">github.com/andreydem0505</a> · 
+<a href="https://t.me/Andreydem42">@Andreydem42</a> · 
+<a href="mailto:andreydem42@gmail.com">andreydem42@gmail.com</a><hr/>
+<h3>О себе:</h3>
+Работал в крупнейших российских компаниях. Выступал тест-лидом функциональности команды: разрабатывал тестовую модель и повышал стабильность e2e-тестов. Внедрил кэширование тестовых пользователей, ускорившее прогоны в 6 раз, и организовал внедрение подхода в других командах.<hr/>
+<h3>Опыт работы:</h3>
+<h3>Авито Работа — QA-инженер в кросс-функциональной продуктовой команде (удалённо)</h3>
+<ul>
+    <li>Выступал тест-лидом функциональности команды: разрабатывал тестовую модель, учитывая пирамиду тестирования.</li>
+    <li>Участвовал в запуске нескольких масштабных АБ-экспериментов, отмечая проблемы, которые прямо влияли на бизнес-метрики.</li>
+    <li>Стабилизировал e2e тесты, в частности, оплату в них (снизил flaky rate до ≈5%).</li>
+    <li>Внедрил кэширование тестовых пользователей в e2e тестах, что ускорило прогоны в 6 раз. Это сократило время выхода продукта на рынок и сделало тесты менее зависимыми от проблем инфраструктуры. Популяризировал подход, организовав кросс-командное внедрение. Впоследствии проект вышел на уровень всей компании, адаптировавшись в разных вертикалях.</li>
+    <li>Отметил проблемы метрик надежности, которыми пользовались все инженеры компании. Это сподвигло быстрее перейти на новые метрики и избавило мониторинг от ложноположительных показателей.</li>
+    <li>Сконфигурировал канареечные релизы в 8 микросервисах, внедрив адаптивные пороги отката.</li>
+<br/>
+Стек: <b>Postman, TypeScript, Go, Proxyman, Charles, DevTools, Atlassian</b>
+</ul>
+<h3 class="page-two">Яндекс Музыка — разработчик в продуктовой backend-команде (офис)</h3>
+<ul>
+    <li>Увеличивал тестовое покрытие. Покрывал код модульными и сквозными автотестами.</li>
+    <li>Разработал проект геотаргетинга лендинга Музыки с нуля — от проектирования до реализации, тестирования и внедрения. Теперь контент главной страницы сервиса зависит от города пользователя и настраивается через админку.</li>
+    <li>Участвовал в переносе контент-админки (треки, альбомы, исполнители и т. д.) со старого стека на новый, улучшив пользовательский опыт контент-менеджеров.</li>
+    <li>Проводил рефакторинг монолита.</li>
+<br/>
+Стек: <b>Java Spring, MongoDB, JUnit, Mockito, Postman</b>
+</ul>
+<h3>Достижения:</h3>
+<p>3-е место в финале всероссийского конкурса "Моя профессия - ИТ"</p>
+<hr/>
+Нашёл баг в <a href="https://hackerone.com/wallet_on_telegram?type=team">Bug Bounty</a> от Telegram Wallet
+<hr/>
+<h3>Пройденные курсы:</h3>
+<table>
+    <tr>
+        <td>2020 - 2021</td>
+        <td><a href="https://disk.yandex.ru/i/CmshtTaNnDJ-kw">IT-школа Samsung</a></td>
+    </tr>
+    <tr>
+        <td>2021</td>
+        <td><a href="https://disk.yandex.ru/i/Ltr8u_cqfpVIDw">Kotlin for Android Bootcamp</a></td>
+    </tr>
+    <tr>
+        <td>2020 - 2022</td>
+        <td><a href="https://hyperskill.org/profile/39616141">Jetbrains Academy</a></td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td><a href="https://disk.yandex.ru/d/Gu0DSm6WtlFuyg">Surf QA Summer School</a></td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td><a href="https://yadi.sk/i/v2kh7mSmXQJQRg">Яндекс Тренировки по алгоритмам 6.0</a></td>
+    </tr>
+    <tr>
+        <td>2025</td>
+        <td><a href="https://disk.yandex.ru/i/1BnPJUKc-rViHA">Surf QA Winter School</a></td>
+    </tr>
+    <tr>
+        <td>2025</td>
+        <td><a href="https://disk.yandex.ru/i/sP5jA9SUB9vRYg">Т-Образование: Алгоритмы и структуры данных</a></td>
+    </tr>
+</table></body></html>
