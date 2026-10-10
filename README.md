@@ -13,7 +13,8 @@ Software Engineering<br>
 <a href="mailto:andreydem42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <hr/>
 <h3>About Me:</h3>
-Worked at leading Russian companies. Served as the test lead for the team's features, developing a test model and improving e2e test stability. Implemented test user caching that made test runs 6 times faster and coordinated its adoption across teams throughout the company.<hr/>
+Worked at leading Russian companies. Have experience in test automation and backend development. Served as a team test lead and led projects scaled to a company-wide level.
+<hr/>
 <h3>Work Experience (formal employment, documented in my employment record):</h3>
 <h3><img src="images/avito.png" alt="Avito" height="32" align="absmiddle"/>&nbsp;02.26-11.26: Avito Jobs — QA Engineer in a cross-functional product team (remote)</h3>
 <ul>
