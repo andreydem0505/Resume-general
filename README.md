@@ -51,6 +51,10 @@
         <b><a href="https://github.com/andreydem0505/WalletWatcher">WalletWatcher</a>: Бот для мониторинга криптовалютных сделок крупных трейдеров</b>
         <p>Стек: Python, threading, Telegram Bot API, Hyperliquid API</p>
     </li>
+    <li>
+        <b><a href="https://github.com/andreydem0505/3DViewer">3DViewer</a>: Рендерер и редактор 3D моделей и анимаций, написанный с нуля</b>
+        <p>Стек: Java, Maven, Gson, JUnit, GitHub Actions</p>
+    </li>
 </ul>
 <h3>Достижения:</h3>
 <details>
