@@ -1,5 +1,5 @@
 <h1>Andrey Dementiev</h1>
-<img align="right" src="images/me.jpg" alt="My photo" style="height: 320px; object-fit: contain">
+<img align="right" src="images/me2.jpg" alt="My photo" style="height: 250px; object-fit: contain">
 <h3>Middle Fullstack QA Engineer</h3>
 <h3>Voronezh, Russia, 21 y/o</h3>
 <h3>Education:</h3>
