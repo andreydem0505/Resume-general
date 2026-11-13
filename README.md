@@ -1,6 +1,6 @@
 <h1>Andrey Dementiev</h1>
-<img align="right" src="images/me.jpg" alt="My photo" style="height: 250px; object-fit: contain">
-<h3>Middle QA Engineer</h3>
+<img align="right" src="images/me.jpg" alt="My photo" style="height: 320px; object-fit: contain">
+<h3>Middle Fullstack QA Engineer</h3>
 <h3>Voronezh, Russia, 21 y/o</h3>
 <h3>Education:</h3>
 Voronezh State University<br>
@@ -13,20 +13,22 @@ Software Engineering<br>
 <a href="mailto:andreydem42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <hr/>
 <h3>About Me:</h3>
-Worked at leading Russian companies. Have experience in test automation and backend development. Served as a team test lead and led projects scaled to a company-wide level.
+I have worked in quality assurance, test automation, and backend development at leading Russian tech companies. I supported features from design through launch, testing every layer and improving team processes. My largest projects built from scratch include geotargeting for Yandex Music's homepage, user caching in Avito's end-to-end tests, and a profiling tool for automated tests.
 <hr/>
 <h3>Work Experience (formal employment, documented in my employment record):</h3>
 <h3><img src="images/avito.png" alt="Avito" height="32" align="absmiddle"/>&nbsp;02.26-11.26: Avito Jobs — QA Engineer in a cross-functional product team (remote)</h3>
 <ul>
+    <li>Tested web (mobile and desktop UI), backend APIs, Android, and iOS.</li>
     <li>Served as the test lead for the team's features, developing a test model based on the testing pyramid.</li>
     <li>Contributed to the launch of several large-scale A/B experiments, identifying issues that directly affected business metrics.</li>
+    <li>Migrated tests from Puppeteer to Playwright.</li>
     <li>Stabilized end-to-end (e2e) tests, particularly payment scenarios, reducing the flaky test rate to approximately 5%.</li>
     <li>Implemented test user caching in e2e tests, making test runs 6 times faster. This reduced time to market and made tests less dependent on infrastructure issues. Promoted the approach and coordinated its adoption across teams. The project subsequently expanded across the company, with adaptations for different business verticals.</li>
     <li>Identified issues in reliability metrics used by engineers across the company. This helped accelerate the transition to new metrics and eliminate false positives in monitoring.</li>
     <li>Configured canary releases for 8 microservices, introducing adaptive rollback thresholds.</li>
     <li>Used AI agents across all work processes and developed AI agent skills.</li>
 <br/>
-Tech Stack: <b>Postman, TypeScript, Go, Proxyman, Charles, DevTools, Atlassian</b>
+Tech Stack: <b>Postman, TypeScript, Go, CodeceptJS (Playwright), Proxyman, Charles, DevTools, Atlassian, Codex</b>
 </ul>
 <h3><img src="images/yandex.png" alt="Yandex" height="24" align="absmiddle"/>&nbsp;06.25-09.25: Yandex Music — Developer in a backend product team (on-site)</h3>
 <ul>
@@ -36,7 +38,7 @@ Tech Stack: <b>Postman, TypeScript, Go, Proxyman, Charles, DevTools, Atlassian</
     <li>Refactored the monolithic application.</li>
     <li>Was one of the first team members to use an AI agent for writing code.</li>
 <br/>
-Tech Stack: <b>Java Spring, MongoDB, JUnit, Mockito, Postman</b>
+Tech Stack: <b>Java Spring, MongoDB, PostgreSQL, JUnit, Mockito, Postman</b>
 </ul>
 <h3>Achievements:</h3>
-Found a bug in the Telegram Wallet <a href="https://hackerone.com/reports/3129921">Bug Bounty</a> program
+Found a bug in the Telegram Wallet Bug Bounty program: <a href="https://hackerone.com/reports/3129921">report</a>
