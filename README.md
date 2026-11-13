@@ -1,6 +1,6 @@
 <h1>Дементьев Андрей Дмитриевич</h1>
 <img align="right" src="images/me2.jpg" alt="моя фотография" style="height: 250px; object-fit: contain">
-<h3>Middle QA engineer</h3>
+<h3>Middle Fullstack QA engineer</h3>
 <h3>Воронеж, 21 год</h3>
 <h3>Образование:</h3>
 Воронежский государственный университет<br>
